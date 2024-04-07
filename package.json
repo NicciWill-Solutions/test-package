@@ -1,0 +1,15 @@
+{
+  "name": "@nicciwill/boy-or-girl",
+  "version": "1.0.0",
+  "description": "Is it a boy or a girl?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicciWill-Solutions/test-package.git"
+  },
+  "author": "NicciWill Solutions",
+  "license": "ISC"
+}
